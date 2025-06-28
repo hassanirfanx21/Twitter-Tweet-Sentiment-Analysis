@@ -107,19 +107,6 @@ TF-IDF(t,d) = TF(t,d) * IDF(t)
 - **F1-Score**: Harmonic mean of precision and recall
 - **Confusion Matrix**: Detailed breakdown of predictions
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/hassanirfanx21/Twitter-Tweet-Sentiment-Analysis.git
-
-# Navigate to project directory
-cd Twitter-Tweet-Sentiment-Analysis
-
-# Install required packages
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Open the Jupyter notebook:
